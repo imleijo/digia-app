@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "637226664315",
+    "project_id": "digia-app",
+    "storage_bucket": "digia-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637226664315:android:0594f17d6d38b03a1e7dde",
+        "android_client_info": {
+          "package_name": "com.digiaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637226664315-e64f1ro1ev03t3pjupocd0bp9r9f948u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFS2SYavk7np61f0m6zolUroxdiM6W27w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637226664315-e64f1ro1ev03t3pjupocd0bp9r9f948u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637226664315:android:ec94e766034dd7461e7dde",
+        "android_client_info": {
+          "package_name": "com.digiatest.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637226664315-e64f1ro1ev03t3pjupocd0bp9r9f948u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFS2SYavk7np61f0m6zolUroxdiM6W27w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637226664315-e64f1ro1ev03t3pjupocd0bp9r9f948u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
